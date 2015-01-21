@@ -1,0 +1,1 @@
+Presentation on the upcoming Angular.js 2.0
